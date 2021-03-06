@@ -14,3 +14,6 @@ teden 1
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/kri.jpg)
 
+teden 2
+
+teden 3
