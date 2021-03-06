@@ -6,4 +6,6 @@ Ekstrakcija klorofila razstlin iz vrta. Dichroic Solution
 
 raztopina: izopropanol alkohol 99% + šinača + steklena posoda (24 ur)
 
-edit: dodaj slike!
+teden 1
+
+
