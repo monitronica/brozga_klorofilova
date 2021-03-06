@@ -8,8 +8,9 @@ raztopina: izopropanol alkohol 99% + šinača + steklena posoda (24 ur)
 
 teden 1
 
-https://github.com/monitronica/brozga_klorofilova/blob/main/injekc.jpg
+![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/injekc.jpg)
 
-https://github.com/monitronica/brozga_klorofilova/blob/main/zeleno.jpg
+![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/zeleno.jpg)
 
-https://github.com/monitronica/brozga_klorofilova/blob/main/kri.jpg
+![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/kri.jpg)
+
