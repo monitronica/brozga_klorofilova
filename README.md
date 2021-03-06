@@ -11,3 +11,5 @@ teden 1
 https://github.com/monitronica/brozga_klorofilova/blob/main/injekc.jpg
 
 https://github.com/monitronica/brozga_klorofilova/blob/main/zeleno.jpg
+
+https://github.com/monitronica/brozga_klorofilova/blob/main/kri.jpg
