@@ -8,7 +8,7 @@ raztopina 1: izopropanol alkohol 99% + špinača + steklena posoda (24 ur)
 
 raztopina 2: izopropanol alkohol 99% + por + steklena posoda (48 ur)
 
-teden 1
+TEDEN 1: 
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/injekc.jpg)
 
@@ -16,7 +16,8 @@ teden 1
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/kri.jpg)
 
-teden 2
+TEDEN 2: 
+
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/spinaca.jpg)
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/por.jpg)
