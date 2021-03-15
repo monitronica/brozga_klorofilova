@@ -28,8 +28,7 @@ TEDEN 2:
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/efekt.jpg)
 
-rezultati: raztopina je zelena cca 7-9 dni, nato se barva spremeni v rjavkasto, čeprav je efekt še vedno viden, se moremo vprašat ali želim samo zeleno, ali bi morda bilo zanimivo opazovat razpadanje snovi?
-
+rezultati: raztopina je zelena cca 7-9 dni, efekt je dobro viden, odvisen od kota svetlobe in oči - nato se barva spremeni v zeleno- rjavkasto, efekt je po tem času še rahlo viden. 
 ***
 Testitanje različniih virov svetlobe (led): 
 
