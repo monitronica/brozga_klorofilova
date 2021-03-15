@@ -35,3 +35,7 @@ Testitanje različniih virov svetlobe (led):
 - led panel izdelan iz odpadnega laptop lcd zaslona in vezja občutljivega na svetlobo: test 1: 
 
 ![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/led_test.gif)
+
+vezje: 
+
+![slika](https://github.com/monitronica/brozga_klorofilova/blob/main/LuminaLed1_bb.jpg)
