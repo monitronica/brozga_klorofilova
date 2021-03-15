@@ -4,6 +4,8 @@ Ekstrakcija klorofila razstlin iz vrta a.k.a. Dichroic Solution
 
 špinača: 25.2.2021
 
+por: 3.3.2021
+
 raztopina 1: izopropanol alkohol 99% + špinača + steklena posoda (24 ur)
 
 raztopina 2: izopropanol alkohol 99% + por + steklena posoda (48 ur)
